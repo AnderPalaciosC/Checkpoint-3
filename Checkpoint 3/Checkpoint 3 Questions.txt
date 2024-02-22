@@ -1,0 +1,20 @@
+• Question 1:
+	Los cuatro tipos de datos básicos en Python son:  integers, floats, Boolean, y strings.
+
+• Question 2:
+	El tipo de convención de nomenclatura que debemos usar para las variables en Python es donde las palabras están en minúsculas y separadas por guiones bajos.
+
+• Question 3:
+	El heredoc de Python se usa con cadenas de triple comilla, donde se pueden escribir varias líneas de texto y luego usarlo como una cadena de texto normal.
+
+• Question 4:
+	La interpolación de cadenas permite hacer cadenas de texto más dinámicas al insertar valores variables de una manera fácil.
+nombre = "Ander"
+mensaje = f"Hola, {nombre}"
+
+• Question 5:
+	Debemos usar comentarios en Python cuando necesitemos explicar el código de manera clara y concisa, por ejemplo si otros programadores necesitan modificarlo o para uno mismo en el futuro.
+
+• Question 6:
+	Las aplicaciones monolíticas son como un único bloque gigante que contiene todas las funciones y componentes juntos. 
+ 	Las aplicaciones de microservicios son como una colección de unidades pequeñas e independientes, cada una con su función específica.

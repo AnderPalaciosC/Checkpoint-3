@@ -1,0 +1,32 @@
+• Exercise 1:
+	string = "hello world"
+	number = 42
+	list = [1, 2, 3, 4, 5]
+	boolean = True
+
+• Exercise 2:
+	string_first_three_letters = string[:3]
+
+• Exercise 3:
+	list_first_element = list[0]
+
+• Exercise 4:
+	new_number = number + 10
+
+• Exercise 5:
+	last_element = list[-1]
+
+• Exercise 6:
+	names = 'harry,alex,susie,jared,gail,conner'
+	names_list = names.split(',')
+
+• Exercise 7:
+	first_word = names[:names.index(',')]
+	first_word_upper = first_word.upper()
+	new_string = first_word_upper + names[len(first_word):]
+
+• Exercise 8:
+	print(f"My number is {number}")
+
+• Exercise 9:
+	print("hello world")
